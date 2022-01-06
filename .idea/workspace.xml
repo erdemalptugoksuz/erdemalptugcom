@@ -2,49 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e360158-35f6-46b7-bc29-8ef3bf9f10fa" name="Changes" comment="Created.">
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/.babelrc" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.babelrc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/images/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/images/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/images/2.png" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/images/2.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/images/3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/images/3.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/images/4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/images/4.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/images/profile.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/images/profile.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/images/projects.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/images/projects.jpeg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/public/vercel.svg" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/public/vercel.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Acomplishments/Acomplishments.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Acomplishments/Acomplishments.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Acomplishments/AcomplishmentsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Acomplishments/AcomplishmentsStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/BackgrooundAnimation/BackgroundAnimation.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/BackgrooundAnimation/BackgroundAnimation.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Footer/Footer.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Footer/FooterStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Footer/FooterStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Header/Header.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Header/Header.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Header/HeaderStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Header/HeaderStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Hero/Hero.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Hero/HeroStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Hero/HeroStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/NavDropDown/NavDropDown.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/NavDropDown/NavDropDown.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/NavDropDown/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/NavDropDown/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Projects/Projects.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Projects/ProjectsStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Projects/ProjectsStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Technologies/Technologies.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/Technologies/TechnologiesStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Technologies/TechnologiesStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/TimeLine/TimeLine.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/components/TimeLine/TimeLineStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/TimeLine/TimeLineStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/constants/constants.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/layout/Layout.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/layout/Layout.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/layout/LayoutStyles.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/layout/LayoutStyles.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/pages/_app.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/pages/_app.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/pages/_document.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/pages/_document.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/pages/api/hello.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/pages/api/hello.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/pages/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/styles/GlobalComponents/Button.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/styles/GlobalComponents/Button.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/styles/GlobalComponents/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/styles/GlobalComponents/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/styles/globals.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/styles/globals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/styles/theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/styles/theme.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/src/themes/default.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/themes/default.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio_website-STARTER/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Hero/Hero.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Hero/Hero.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641491429368</updated>
-      <workItem from="1641491431777" duration="1971000" />
+      <workItem from="1641491431777" duration="2844000" />
     </task>
     <task id="LOCAL-00001" summary="Modified portfolio setup files.">
       <created>1641493229614</created>
@@ -97,7 +56,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641493270310</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Created.">
+      <created>1641493531756</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1641493531756</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
