@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3e360158-35f6-46b7-bc29-8ef3bf9f10fa" name="Changes" comment="Updated hero section.">
+    <list default="true" id="3e360158-35f6-46b7-bc29-8ef3bf9f10fa" name="Changes" comment="Added background svg animation.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/portfolio/src/pages/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/pages/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,7 +39,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1641491429368</updated>
-      <workItem from="1641491431777" duration="3052000" />
+      <workItem from="1641491431777" duration="3330000" />
     </task>
     <task id="LOCAL-00001" summary="Modified portfolio setup files.">
       <created>1641493229614</created>
@@ -70,7 +69,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641494401905</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added background svg animation.">
+      <created>1641494713383</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641494713383</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -93,6 +99,7 @@
     <MESSAGE value="Modified portfolio setup files." />
     <MESSAGE value="Created." />
     <MESSAGE value="Updated hero section." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated hero section." />
+    <MESSAGE value="Added background svg animation." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added background svg animation." />
   </component>
 </project>
