@@ -14,7 +14,7 @@ const Hero = (props) => (
             <SectionText>
                 Hayalleri ve idealleri olan bir Türk genciyim. Kendimi 5 yıl sonra sizin karşınızda değil, sizi benim karşımda görüyorum.
             </SectionText>
-            <Button onClick={() => window.location = "https://google.com"}>Daha fazlası</Button>
+            <Button onClick={() => window.location = "https://instagram.com/erdemalptugoksuz"}>Daha fazlası</Button>
         </LeftSection>
     </Section>
 );

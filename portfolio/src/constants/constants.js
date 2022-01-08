@@ -31,8 +31,8 @@ export const projects = [
     description: "Kendim için hazırladığım ilk portfolyo sitesi.",
     image: '/images/8.png',
     tags: ['Next.js'],
-    source: 'https://google.com',
-    visit: 'https://google.com',
+    source: 'https://github.com/erdemalptugoksuz/erdemalptugcom',
+    visit: 'https://erdemalptug.com',
     id: 3,
   },
 ];
