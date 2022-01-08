@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
         <SectionTitle>Hakkımda</SectionTitle>
         <SectionText>
-            merhaba merhaba burayı doldurmaya çalışıyorum siz kimsiniz bilmiyorum.
+            2018'de başlayan hikayem hayallerim ve hedeflerim doğrultusunda ilerliyor. Sıfırdan başladığım bu yolda çok büyük işlerin peşindeyim.
         </SectionText>
         <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
             <>
