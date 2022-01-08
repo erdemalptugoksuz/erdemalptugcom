@@ -2,7 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3e360158-35f6-46b7-bc29-8ef3bf9f10fa" name="Changes" comment="Added background svg animation.">
+      <change afterPath="$PROJECT_DIR$/portfolio/public/images/5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/public/images/6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/public/images/7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/portfolio/public/images/8.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Acomplishments/Acomplishments.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Acomplishments/Acomplishments.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Footer/Footer.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Footer/Footer.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Projects/Projects.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Projects/Projects.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/Technologies/Technologies.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/Technologies/Technologies.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/components/TimeLine/TimeLine.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/components/TimeLine/TimeLine.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/portfolio/src/constants/constants.js" beforeDir="false" afterPath="$PROJECT_DIR$/portfolio/src/constants/constants.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -11,6 +21,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="23Kn1L4Ni3PPLqSfVmCU4OnDleM" />
   <component name="ProjectViewState">
@@ -24,10 +42,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="yarn" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/portfolio/public/images" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
@@ -40,6 +60,7 @@
       <option name="presentableId" value="Default" />
       <updated>1641491429368</updated>
       <workItem from="1641491431777" duration="3330000" />
+      <workItem from="1641507411341" duration="8907000" />
     </task>
     <task id="LOCAL-00001" summary="Modified portfolio setup files.">
       <created>1641493229614</created>
@@ -92,6 +113,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
