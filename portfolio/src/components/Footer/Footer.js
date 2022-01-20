@@ -13,8 +13,8 @@ const Footer = () => {
                 <LinkItem href="mailto:iletisim@erdemalptug.com">iletisim@erdemalptug.com</LinkItem>
             </LinkColumn>
             <LinkColumn>
-                <LinkTitle>Telefon</LinkTitle>
-                <LinkItem href="tel:1111111111">1111111111</LinkItem>
+                <LinkTitle>Telegram</LinkTitle>
+                <LinkItem href="https://t.me/erdemalptugoksuz">Mesaj At</LinkItem>
             </LinkColumn>
         </LinkList>
         <SocialIconsContainer>
